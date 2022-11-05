@@ -1,2 +1,3 @@
-# organicFormulas
-Lab level formula calc
+# Organic Lab API
+Stubb snipet of Oranic Lab API. Please message for more details.
+
